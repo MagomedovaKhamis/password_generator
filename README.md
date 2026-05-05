@@ -38,6 +38,6 @@
 ## 📦 Запуск программы
 
 ```bash
-git clone https://github.com/AdzievMurad/password_generator.git
+git clone https://github.com/MagomedovaKhamis/password_generator.git
 cd password_generator
 python password_generator.py
